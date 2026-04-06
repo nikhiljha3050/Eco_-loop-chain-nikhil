@@ -1,3 +1,5 @@
+video demo link - https://drive.google.com/file/d/1eqa4YBnC7wkDq2I2T3qKVWKEd5yhWA_G/view?usp=drivesdk
+
 Smart Resource Allocation & Circular Economy Platform🛑
 The Problem: The Invisible Industrial LeakThe global supply chain is currently leaking billions of dollars in Industrial Micro-Waste.Every day, Industry A (electronics factories, data centers, and textile mills) discards microscopic byproducts—silicon dust, cobalt traces, and synthetic microfibers—simply because they lack the tools to track and grade them.The Cost: These materials are sent to landfills as "trash," costing companies millions in disposal fees.The Gap: Meanwhile, Industry B (solar manufacturers and EV battery plants) is desperately mining the earth for these exact same raw materials.The Result: We have a massive "Information Asymmetry" where one company's toxic liability could be another company's premium gold mine, but they have no way to find each other.
 
